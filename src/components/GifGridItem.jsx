@@ -1,8 +1,8 @@
 import React,{ useState } from 'react'
 /* Media */
-import icLink from './assets/ic-link.svg'
-import icUser from './assets/ic-user.svg'
-import icRating from './assets/ic-rating.svg'
+import icLink from '../assets/ic-link.svg'
+import icUser from '../assets/ic-user.svg'
+import icRating from '../assets/ic-rating.svg'
 
 export const GifGridItem = ({id,title,url,user,rating}) => {
 /*     console.log(id,title,url,user,rating);
