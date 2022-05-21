@@ -1,0 +1,49 @@
+/* Reset styles */
+input:focus {
+    outline: 0;
+}
+
+/* Custom Styles */
+input::placeholder {
+    font-size: 1.875rem;
+    color: #0a3b5c70;
+
+}
+
+.iconGif,
+.iconGif {
+    width: 15px;
+    height: 15px;
+}
+
+.cardItem {
+    transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+}
+
+.cardItem:hover {
+    transform: scale(1.08);
+    -webkit-transform: scale(1.08);
+    -moz-transform: scale(1.08);
+    -ms-transform: scale(1.08);
+    -o-transform: scale(1.08);
+    box-shadow: 5px 5px 10px 0px rgba(10, 59, 92, 0.50);
+    -webkit-box-shadow: 5px 5px 10px 0px rgba(10, 59, 92, 0.50);
+    -moz-box-shadow: 5px 5px 10px 0px rgba(10, 59, 92, 0.50);
+}
+.cardItemDesc {
+    height:0;
+    opacity:0;
+    transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+}
+.hoverCardItem:hover >   .cardItemDesc {
+    height:4rem;
+    opacity:1;
+}
