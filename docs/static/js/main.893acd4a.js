@@ -7132,7 +7132,7 @@
             var e = n(791),
                 t = n(250);
             var r = n.p + "/gif-search-app/static/media/logo.3b2c7f121b34014fefc3802c1ce9e130.svg";
-            var l = n.p + "/gif-search-app/static/media/logo-ig.0cb1c3537ccee1748a301c88c445f578.svg";
+            var l = n.p + "https://anz504.github.io/gif-search-app/static/media/logo-ig.0cb1c3537ccee1748a301c88c445f578.svg";
             var a = n.p + "/gif-search-app/static/media/logo-ws.adb66c113d46250b8991ea9cf2656199.svg";
             var o = n.p + "/gif-search-app/static/media/logo-in.faee688e337eebe43749e994ee96ecdf.svg";
             var i = n.p + "/gif-search-app/static/media/ic-gh.a76ec80e17915247140a81cdbfdcab59.svg",
