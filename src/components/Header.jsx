@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './static/media/logo.3b2c7f121b34014fefc3802c1ce9e130.svg'
+import logo from '../assets/logo.svg'
 import logoIg from '../assets/logo-ig.svg'
 import logoWs from '../assets/logo-ws.svg'
 import logoIn from '../assets/logo-in.svg'
